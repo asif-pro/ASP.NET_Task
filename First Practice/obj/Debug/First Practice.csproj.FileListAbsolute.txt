@@ -1,0 +1,49 @@
+C:\Users\USER\source\repos\First Practice\First Practice\bin\First Practice.dll.config
+C:\Users\USER\source\repos\First Practice\First Practice\bin\First Practice.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\First Practice.pdb
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\csc.exe
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\csc.exe.config
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\csc.rsp
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\csi.exe
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\csi.rsp
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.AppContext.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\vbc.exe
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\vbc.exe.config
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\vbc.rsp
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\source\repos\First Practice\First Practice\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\source\repos\First Practice\First Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Helpers.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Mvc.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Razor.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Razor.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Helpers.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\System.Web.Mvc.xml
+C:\Users\USER\source\repos\First Practice\First Practice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\source\repos\First Practice\First Practice\obj\Debug\First Practice.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\First Practice\First Practice\obj\Debug\First Practice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\First Practice\First Practice\obj\Debug\First Practice.csproj.CopyComplete
+C:\Users\USER\source\repos\First Practice\First Practice\obj\Debug\First Practice.dll
+C:\Users\USER\source\repos\First Practice\First Practice\obj\Debug\First Practice.pdb

@@ -1,0 +1,45 @@
+﻿@model First_Practice.Models.Person
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PersonalInfo</title>
+</head>
+<body>
+    <div>
+        <h1> Personal Informantion </h1>
+
+        <table border="1">
+            <tr>
+                <td>Full Name : </td>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <td>Username : </td>
+                <td>@Model.UserName</td>
+            </tr>
+            <tr>
+                <td>Password : </td>
+                <td>@Model.Password</td>
+            </tr>
+         
+            <tr>
+                <td>Blood Group : </td>
+                <td>@Model.BloodGroup</td>
+            </tr>
+            <tr>
+                <td>Gender : </td>
+                <td>@Model.Gender</td>
+            </tr>
+            <tr>
+                <td>Date Of Birth : </td>
+                <td>@Model.DateOfBirth</td>
+
+            </tr>
+            
+        </table>
+    </div>
+</body>
+</html>
