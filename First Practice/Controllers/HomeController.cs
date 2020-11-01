@@ -56,9 +56,18 @@ namespace First_Practice.Controllers
         [HttpPost]
         public ActionResult Signup(Person p1)
         {
-         
-           return View("PersonalInfo", p1);
+
+            TempData["person"] = p1;
+            return RedirectToAction("ShowInfo");
         }
+
+        public ActionResult ShowInfo()
+        {
+            Person p = TempData["person"] as Person;
+            return View("PersonalInfo", p);
+        }
+
+
 
         /*public ActionResult Dashboard()
         {
